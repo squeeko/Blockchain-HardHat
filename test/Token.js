@@ -28,3 +28,4 @@ describe("Token contract", function () {
         expect(await hardhatToken.balanceOf(addr2.address)).to.equal(50);
     })
 });
+
