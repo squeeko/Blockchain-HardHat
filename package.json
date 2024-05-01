@@ -1,0 +1,18 @@
+{
+  "name": "blockchain-hardhat",
+  "version": "1.0.0",
+  "description": "hardhat-work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hardhat"
+  ],
+  "author": "Jermaine Allgood",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.3"
+  }
+}
